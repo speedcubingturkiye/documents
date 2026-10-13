@@ -44,7 +44,7 @@ Sürüm 1.0 · Kabul tarihi: 10 Ekim 2026
 ## Madde 4 – Üyelik
 
 1. Speedcubing Türkiye'de iki üyelik türü vardır: Üye ve Asıl Üye.
-2. Yaş sınırı olmadan herkes, çevrim içi üyelik formunu doldurarak Üye olur. 18 yaşından küçükler formu veli veya vasilerinin onayıyla gönderir. Üyelik ücretsizdir.
+2. Yaş sınırı olmadan herkes, çevrimiçi üyelik formunu doldurarak Üye olur. 18 yaşından küçükler formu veli veya vasilerinin onayıyla gönderir. Üyelik ücretsizdir.
 3. Üyeler duyuruları alır, öneri verebilir ve Genel Kurul'u izleyebilir; oy kullanamaz ve kurullarda görev alamaz.
 4. 18 yaşını doldurmuş ve Speedcubing Türkiye'nin etkinliklerinde görev alarak katkı veren Üyeler, başvuru veya davet yoluyla Asıl Üye olur. Asıl Üyeler Genel Kurul'da oy kullanır ve iki kurula da aday olabilir.
 5. Üyelik, kişinin ayrılmak istediğini bildirmesiyle ya da Madde 9'a göre üyelikten çıkarılmasıyla sona erer. Uzun süre hiçbir etkinlikte görev almayan Asıl Üyenin oy hakkı 04.2026.1 Üyelik yönetmeliğine göre sona erebilir; kişi Üye olarak kalır.
@@ -54,7 +54,7 @@ Sürüm 1.0 · Kabul tarihi: 10 Ekim 2026
 
 1. Genel Kurul, Speedcubing Türkiye'nin en üst karar organıdır ve tüm Asıl Üyelerden oluşur.
 2. Olağan Genel Kurul yılda en az bir kez toplanır. Yönetim Kurulu, Denetim Kurulu ya da Asıl Üyelerin beşte biri isterse olağanüstü Genel Kurul toplanır.
-3. Toplantı en az 14 gün önceden duyurulur. Toplantı yüz yüze, çevrim içi veya ikisi birden yapılabilir.
+3. Toplantı en az 14 gün önceden duyurulur. Toplantı yüz yüze, çevrimiçi veya ikisi birden yapılabilir.
 4. Genel Kurul, Asıl Üyelerin yarısından fazlası katılınca toplanır. Bu sağlanamazsa en az 7 gün sonra ikinci toplantı yapılır; ikinci toplantıda yeter sayı aranmaz.
 5. Her Asıl Üyenin bir oyu vardır. Oy şahsen kullanılır; vekaletle oy kullanılamaz. Seçimler gizli oyla yapılır.
 6. Kararlar, kullanılan oyların yarısından fazlasıyla alınır. Madde 11'deki kararlar için kullanılan oyların üçte ikisi gerekir.
@@ -147,7 +147,7 @@ Sürüm 1.0 · Kabul tarihi: 10 Ekim 2026
 
 ## Madde 12 – Geçici Maddeler ve Yürürlük
 
-1. Bu tüzük, Ek'te adları yazılı kurucu ekip tarafından [tarih] tarihinde kabul edilmiş ve aynı gün yürürlüğe girmiştir.
+1. Bu tüzük, Ek'te adları yazılı kurucu ekip tarafından 10 Ekim 2026 tarihinde kabul edilmiş ve aynı gün yürürlüğe girmiştir.
 2. Kurucu ekibin üyeleri ilk Asıl Üyelerdir.
 3. Ek'te adları yazılı kurucu Yönetim Kurulu ve kurucu Denetim Kurulu, ilk olağan Genel Kurul'a kadar görev yapar.
 4. İlk olağan Genel Kurul, bu tüzüğün yürürlüğe girdiği tarihten itibaren en geç 12 ay içinde toplanır ve iki kurulu seçer.
