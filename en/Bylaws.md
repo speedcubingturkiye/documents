@@ -37,7 +37,7 @@ Version 1.0 · Adopted: 10 October 2026
     - respects and puts into practice the objectives set out in the WCA Bylaws and Motions;
     - complies with the WCA Regulations and all other applicable WCA rules;
     - accepts and complies with the decisions of WCA volunteers.
-3. Speedcubing Türkiye sends the current version of these Bylaws and its Motions to the WCA and gives the WCA an activity report every year. How and when this is done is set out in Motion [[03.2026.1 Relations with the WCA]].
+3. Speedcubing Türkiye sends the current version of these Bylaws and its Motions to the WCA and gives the WCA an activity report every year. How and when this is done is set out in Motion 03.2026.1 Relations with the WCA.
 4. At WCA competitions, the WCA's rules and the WCA Delegate's authority under them come first. These Bylaws, the Motions and the Policies may not be applied in a way that conflicts with them.
 5. The Executive Director handles relations and official correspondence with the WCA.
 
@@ -47,8 +47,8 @@ Version 1.0 · Adopted: 10 October 2026
 2. Anyone, of any age, becomes a Member by filling in the online membership form. Anyone under 18 submits the form with the consent of their parent or guardian. Membership is free.
 3. Members receive announcements, may make suggestions and may observe the General Assembly; they cannot vote or sit on either Board.
 4. Members aged 18 or over who contribute by helping run Speedcubing Türkiye's events become Full Members by application or invitation. Full Members vote in the General Assembly and may stand for both Boards.
-5. Membership ends when the person asks to leave, or when they are expelled under Article 9. A Full Member who helps run no event for a long time may lose their voting rights under Motion [[04.2026.1 Membership]]; they remain a Member.
-6. The membership form, applications for Full Membership and appeals, loss of voting rights and the membership lists are set out in Motion [[04.2026.1 Membership]]. Members' personal data is processed in line with the KVKK and the [[Personal Data]] Policy.
+5. Membership ends when the person asks to leave, or when they are expelled under Article 9. A Full Member who helps run no event for a long time may lose their voting rights under Motion 04.2026.1 Membership; they remain a Member.
+6. The membership form, applications for Full Membership and appeals, loss of voting rights and the membership lists are set out in Motion 04.2026.1 Membership. Members' personal data is processed in line with the KVKK and the Personal Data Policy.
 
 ## Article 5 – General Assembly
 
@@ -64,7 +64,7 @@ Version 1.0 · Adopted: 10 October 2026
     - approves the plan and budget for the current year;
     - introduces or removes dues;
     - decides appeals against disciplinary decisions.
-8. Notice of meetings, candidacies, voting and minutes are set out in Motion [[02.2026.1 Elections and General Assembly]].
+8. Notice of meetings, candidacies, voting and minutes are set out in Motion 02.2026.1 Elections and General Assembly.
 
 ## Article 6 – Board
 
@@ -79,7 +79,7 @@ Version 1.0 · Adopted: 10 October 2026
     - **Vice-Chair:** stands in for the Chair and chairs meetings when the Chair is absent. Is responsible for the areas the Board assigns.
     - **Secretary:** keeps the minutes, the membership lists and the records. Is responsible for personal data.
     - **Treasurer:** keeps the account and the records, approves payments under Article 8 and prepares the financial reports.
-7. The Board is quorate when at least 3 members attend and decides by a majority of those present; a tie means the proposal fails. A decision may also be taken without a meeting if all members agree in writing. How often meetings are held, how they are announced and how they are recorded is set out in Motion [[01.2026.1 Board]].
+7. The Board is quorate when at least 3 members attend and decides by a majority of those present; a tie means the proposal fails. A decision may also be taken without a meeting if all members agree in writing. How often meetings are held, how they are announced and how they are recorded is set out in Motion 01.2026.1 Board.
 8. No one votes on a decision about themselves (for example, their own expense or their own disciplinary case).
 9. The Board adopts Motions consistent with these Bylaws. Motions are adopted, amended or repealed by a unanimous vote of all members of the Board.
 10. The Board adopts Policies for day-to-day operations. Policies are adopted, amended or repealed by a vote of a majority of the members of the Board (at least 3 of its 5 members).
@@ -94,7 +94,7 @@ Version 1.0 · Adopted: 10 October 2026
 4. The rules on vacancies, resignation and removal in Article 6 also apply to the Audit and Integrity Board. A vacant seat is filled by its alternate.
 5. Its duties:
     - **Financial audit:** checks the accounts and payment approvals at least once a year and after every competition.
-    - **Integrity:** receives and investigates complaints of breaches of these Bylaws, the Motions, the Policies and the rules in Article 9. Keeps the disclosures of interests under the [[Ethics]] Policy.
+    - **Integrity:** receives and investigates complaints of breaches of these Bylaws, the Motions, the Policies and the rules in Article 9. Keeps the disclosures of interests under the Ethics Policy.
     - **Safeguarding:** its Chair is the Safeguarding Officer; it appoints one of its other two members as Deputy Safeguarding Officer (Article 9).
     - **Appeals:** decides appeals from applicants refused Full Membership (Article 4).
 6. It submits a written report to every ordinary General Assembly.
@@ -112,19 +112,19 @@ Version 1.0 · Adopted: 10 October 2026
 5. An invoice or receipt is kept for every payment. Officers are volunteers and receive no pay for their roles. A cost incurred for Speedcubing Türkiye is reimbursed against receipts only if the Board approves it.
 6. An income and expense summary is published after each competition, and an annual financial report is published every year together with the Audit and Integrity Board's report.
 7. Speedcubing Türkiye's equipment and other assets belong to the organization as a whole, not to any individual.
-8. Account statements, a change of account holder, the budget and the financial year are set out in Motion [[06.2026.1 Finances]]; competition fees in the [[Competition Requirements]] Policy; recording and lending equipment in the [[Equipment]] Policy.
+8. Account statements, a change of account holder, the budget and the financial year are set out in Motion 06.2026.1 Finances; competition fees in the Competition Requirements Policy; recording and lending equipment in the Equipment Policy.
 
 ## Article 9 – Conduct, Safeguarding and Discipline
 
 1. All Members, volunteers and organizers follow the WCA's rules, procedures and policies.
-2. Officers sign the [[Ethics]] Policy when they take up their role.
+2. Officers sign the Ethics Policy when they take up their role.
 3. Violence, harassment, insults, discrimination and threats are forbidden at Speedcubing Türkiye events.
-4. The Chair of the Audit and Integrity Board is also the Safeguarding Officer. The Safeguarding Officer receives complaints about child safety and conduct and brings them to the Audit and Integrity Board. If a complaint concerns that Chair, or they cannot be reached, the Deputy Safeguarding Officer steps in. Complaints are sent to safeguarding@speedcubingturkiye.org. How the Safeguarding Officer works is set out in the [[Safeguarding]] Policy.
+4. The Chair of the Audit and Integrity Board is also the Safeguarding Officer. The Safeguarding Officer receives complaints about child safety and conduct and brings them to the Audit and Integrity Board. If a complaint concerns that Chair, or they cannot be reached, the Deputy Safeguarding Officer steps in. Complaints are sent to safeguarding@speedcubingturkiye.org. How the Safeguarding Officer works is set out in the Safeguarding Policy.
 5. An incident during a competition is first reported to that competition's WCA Delegate. Matters under WCA rules are referred to the WCA.
 6. Parents, or the adult accompanying them, are responsible for supervising participants under 18 throughout an event.
 7. No one may retaliate against a person who makes a complaint or acts as a witness. Retaliation is a separate disciplinary offence.
-8. Discipline: the Audit and Integrity Board investigates the complaint and hears the person concerned; the Audit and Integrity Board makes the decision and sends it to the Board for review. The person may appeal to the General Assembly. The process and time limits are set out in Motion [[08.2026.1 Complaints and Appeals]].
-9. Sanctions: a warning; temporary suspension from Speedcubing Türkiye's own events (such as meetups, training sessions and meetings) or from roles; removal of voting rights; expulsion. These sanctions do not cover taking part in WCA competitions; matters concerning WCA competitions are reported to the WCA. How sanctions are applied is set out in Motion [[07.2026.1 Sanctions]].
+8. Discipline: the Audit and Integrity Board investigates the complaint and hears the person concerned; the Audit and Integrity Board makes the decision and sends it to the Board for review. The person may appeal to the General Assembly. The process and time limits are set out in Motion 08.2026.1 Complaints and Appeals.
+9. Sanctions: a warning; temporary suspension from Speedcubing Türkiye's own events (such as meetups, training sessions and meetings) or from roles; removal of voting rights; expulsion. These sanctions do not cover taking part in WCA competitions; matters concerning WCA competitions are reported to the WCA. How sanctions are applied is set out in Motion 07.2026.1 Sanctions.
 10. No one takes part in deciding a disciplinary case that concerns them.
 
 ## Article 10 – Amendments

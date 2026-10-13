@@ -37,7 +37,7 @@ Sürüm 1.0 · Kabul tarihi: 10 Ekim 2026
     - WCA'nın tüzüğünde ve kararlarında (WCA Bylaws ve Motions) yazılı hedeflere saygı gösterir ve bunları uygular;
     - WCA Yönetmeliği'ne (WCA Regulations) ve WCA'nın geçerli diğer kurallarına uyar;
     - WCA gönüllülerinin kararlarını kabul eder ve uygular.
-3. Speedcubing Türkiye, bu tüzüğün ve yönetmeliklerin güncel hâlini WCA'ya iletir ve her yıl WCA'ya bir faaliyet raporu verir. Bunların nasıl ve ne zaman yapılacağı [[03.2026.1 WCA ile İlişkiler]] yönetmeliğinde düzenlenir.
+3. Speedcubing Türkiye, bu tüzüğün ve yönetmeliklerin güncel hâlini WCA'ya iletir ve her yıl WCA'ya bir faaliyet raporu verir. Bunların nasıl ve ne zaman yapılacağı 03.2026.1 WCA ile İlişkiler yönetmeliğinde düzenlenir.
 4. WCA yarışmalarında WCA kuralları ve WCA Delegesinin bu kurallardan doğan yetkisi önce gelir. Bu tüzük, yönetmelikler ve politikalar bunlarla çelişecek şekilde uygulanamaz.
 5. WCA ile ilişkileri ve resmî yazışmaları Genel Koordinatör yürütür.
 
@@ -47,8 +47,8 @@ Sürüm 1.0 · Kabul tarihi: 10 Ekim 2026
 2. Yaş sınırı olmadan herkes, çevrim içi üyelik formunu doldurarak Üye olur. 18 yaşından küçükler formu veli veya vasilerinin onayıyla gönderir. Üyelik ücretsizdir.
 3. Üyeler duyuruları alır, öneri verebilir ve Genel Kurul'u izleyebilir; oy kullanamaz ve kurullarda görev alamaz.
 4. 18 yaşını doldurmuş ve Speedcubing Türkiye'nin etkinliklerinde görev alarak katkı veren Üyeler, başvuru veya davet yoluyla Asıl Üye olur. Asıl Üyeler Genel Kurul'da oy kullanır ve iki kurula da aday olabilir.
-5. Üyelik, kişinin ayrılmak istediğini bildirmesiyle ya da Madde 9'a göre üyelikten çıkarılmasıyla sona erer. Uzun süre hiçbir etkinlikte görev almayan Asıl Üyenin oy hakkı [[04.2026.1 Üyelik]] yönetmeliğine göre sona erebilir; kişi Üye olarak kalır.
-6. Üyelik formu, Asıl Üyelik başvurusu ve itiraz yolu, oy hakkının sona ermesi ve üye listeleri [[04.2026.1 Üyelik]] yönetmeliğinde düzenlenir. Üyelerin kişisel verileri KVKK'ya ve [[Kişisel Veriler]] politikasına uygun olarak işlenir.
+5. Üyelik, kişinin ayrılmak istediğini bildirmesiyle ya da Madde 9'a göre üyelikten çıkarılmasıyla sona erer. Uzun süre hiçbir etkinlikte görev almayan Asıl Üyenin oy hakkı 04.2026.1 Üyelik yönetmeliğine göre sona erebilir; kişi Üye olarak kalır.
+6. Üyelik formu, Asıl Üyelik başvurusu ve itiraz yolu, oy hakkının sona ermesi ve üye listeleri 04.2026.1 Üyelik yönetmeliğinde düzenlenir. Üyelerin kişisel verileri KVKK'ya ve Kişisel Veriler politikasına uygun olarak işlenir.
 
 ## Madde 5 – Genel Kurul
 
@@ -64,7 +64,7 @@ Sürüm 1.0 · Kabul tarihi: 10 Ekim 2026
     - o yılın planını ve bütçesini onaylar;
     - aidat koyar veya kaldırır;
     - disiplin kararlarına yapılan itirazları karara bağlar.
-8. Toplantının duyurulması, adaylık, oylama ve tutanak [[02.2026.1 Seçimler ve Genel Kurul]] yönetmeliğinde düzenlenir.
+8. Toplantının duyurulması, adaylık, oylama ve tutanak 02.2026.1 Seçimler ve Genel Kurul yönetmeliğinde düzenlenir.
 
 ## Madde 6 – Yönetim Kurulu
 
@@ -79,7 +79,7 @@ Sürüm 1.0 · Kabul tarihi: 10 Ekim 2026
     - **Başkan Yardımcısı:** Başkan yokken onun yerine geçer ve toplantıları yönetir. Yönetim Kurulu'nun verdiği alanlardan sorumludur.
     - **Sekreter:** Toplantı tutanaklarını, üye listelerini ve belgeleri tutar. Kişisel verilerden sorumludur.
     - **Sayman:** Hesabı ve kayıtları tutar, harcamaları Madde 8'e göre onaylar ve mali raporları hazırlar.
-7. Yönetim Kurulu en az 3 üyesi katılınca toplanır ve katılanların çoğunluğuyla karar verir; oylar eşit çıkarsa öneri reddedilmiş sayılır. Tüm üyeler yazılı olarak kabul ederse toplantı yapılmadan da karar alınabilir. Toplantıların sıklığı, duyurusu ve kaydı [[01.2026.1 Yönetim Kurulu]] yönetmeliğinde düzenlenir.
+7. Yönetim Kurulu en az 3 üyesi katılınca toplanır ve katılanların çoğunluğuyla karar verir; oylar eşit çıkarsa öneri reddedilmiş sayılır. Tüm üyeler yazılı olarak kabul ederse toplantı yapılmadan da karar alınabilir. Toplantıların sıklığı, duyurusu ve kaydı 01.2026.1 Yönetim Kurulu yönetmeliğinde düzenlenir.
 8. Kimse kendisiyle ilgili bir kararda (örneğin kendi harcaması ya da kendi disiplin dosyası) oy kullanamaz.
 9. Yönetim Kurulu bu tüzüğe uygun yönetmelikler çıkarır. Yönetmelikler, Yönetim Kurulu'nun tüm üyelerinin oyuyla kabul edilir, değiştirilir veya kaldırılır.
 10. Yönetim Kurulu günlük işleyiş için politikalar çıkarır. Politikalar, Yönetim Kurulu üyelerinin salt çoğunluğunun (5 üyeden en az 3'ünün) oyuyla kabul edilir, değiştirilir veya kaldırılır.
@@ -94,7 +94,7 @@ Sürüm 1.0 · Kabul tarihi: 10 Ekim 2026
 4. Madde 6'daki boşalma, istifa ve görevden alma kuralları Denetim Kurulu için de geçerlidir. Boşalan yere Denetim Kurulu'nun yedek üyesi geçer.
 5. Denetim Kurulu'nun görevleri:
     - **Mali denetim:** Hesapları ve harcama onaylarını yılda en az bir kez ve her yarışmadan sonra kontrol eder.
-    - **Dürüstlük:** Bu tüzüğe, yönetmeliklere, politikalara ve Madde 9'daki kurallara aykırılık şikâyetlerini alır ve inceler. [[Etik Kurallar]] politikasındaki çıkar beyanlarını tutar.
+    - **Dürüstlük:** Bu tüzüğe, yönetmeliklere, politikalara ve Madde 9'daki kurallara aykırılık şikâyetlerini alır ve inceler. Etik Kurallar politikasındaki çıkar beyanlarını tutar.
     - **Güvenlik:** Güvenlik Sorumlusu, Denetim Kurulu Başkanı'dır. Kurul, diğer iki üyesinden birini Yedek Güvenlik Sorumlusu olarak belirler (Madde 9).
     - **İtiraz:** Asıl Üyelik başvurusu reddedilenlerin itirazlarını karara bağlar (Madde 4).
 6. Denetim Kurulu her olağan Genel Kurul'a yazılı bir rapor sunar.
@@ -112,19 +112,19 @@ Sürüm 1.0 · Kabul tarihi: 10 Ekim 2026
 5. Her harcamanın faturası veya belgesi saklanır. Görevliler gönüllüdür ve görevleri için ücret almaz. Speedcubing Türkiye için yapılan bir masraf, ancak Yönetim Kurulu onaylarsa belgeyle ödenir.
 6. Her yarışmadan sonra gelir-gider özeti, her yıl da Denetim Kurulu raporuyla birlikte yıllık mali rapor yayımlanır.
 7. Speedcubing Türkiye'nin ekipmanı ve diğer varlıkları organizasyonun ortak malıdır; hiçbir kişiye ait değildir.
-8. Hesap bildirimleri, hesap sahibi değişikliği, bütçe ve mali yıl [[06.2026.1 Mali İşler]] yönetmeliğinde; yarışma ücretleri [[Yarışma Gereklilikleri]] politikasında; ekipmanın kaydı ve ödünç verilmesi [[Ekipman]] politikasında düzenlenir.
+8. Hesap bildirimleri, hesap sahibi değişikliği, bütçe ve mali yıl 06.2026.1 Mali İşler yönetmeliğinde; yarışma ücretleri Yarışma Gereklilikleri politikasında; ekipmanın kaydı ve ödünç verilmesi Ekipman politikasında düzenlenir.
 
 ## Madde 9 – Davranış, Güvenlik ve Disiplin
 
 1. Tüm Üyeler, gönüllüler ve organizatörler WCA'nın kurallarına, usullerine ve politikalarına uyar.
-2. Görevliler, göreve başlarken [[Etik Kurallar]] politikasını imzalar.
+2. Görevliler, göreve başlarken Etik Kurallar politikasını imzalar.
 3. Speedcubing Türkiye etkinliklerinde şiddet, taciz, aşağılama, ayrımcılık ve tehdit yasaktır.
-4. Denetim Kurulu Başkanı aynı zamanda Güvenlik Sorumlusudur. Güvenlik Sorumlusu, çocuk güvenliği ve davranışla ilgili şikâyetleri alır ve Denetim Kurulu'na getirir. Şikâyet Denetim Kurulu Başkanı'nı ilgilendiriyorsa ya da ona ulaşılamıyorsa Yedek Güvenlik Sorumlusu devreye girer. Şikâyetler guvenlik@speedcubingturkiye.org üzerinden yapılır. Güvenlik Sorumlusu'nun nasıl çalışacağı [[Güvenlik]] politikasında düzenlenir.
+4. Denetim Kurulu Başkanı aynı zamanda Güvenlik Sorumlusudur. Güvenlik Sorumlusu, çocuk güvenliği ve davranışla ilgili şikâyetleri alır ve Denetim Kurulu'na getirir. Şikâyet Denetim Kurulu Başkanı'nı ilgilendiriyorsa ya da ona ulaşılamıyorsa Yedek Güvenlik Sorumlusu devreye girer. Şikâyetler guvenlik@speedcubingturkiye.org üzerinden yapılır. Güvenlik Sorumlusu'nun nasıl çalışacağı Güvenlik politikasında düzenlenir.
 5. Yarışma sırasında yaşanan bir olay önce o yarışmadaki WCA Delegesine bildirilir. WCA kurallarını ilgilendiren konular WCA'ya iletilir.
 6. 18 yaşından küçük katılımcıların gözetimi, etkinlik boyunca velilerine veya yanlarındaki yetişkine aittir.
 7. Şikâyette bulunan veya tanıklık eden kişiye misilleme yapılamaz. Misilleme ayrı bir disiplin nedenidir.
-8. Disiplin: Denetim Kurulu şikâyeti inceler ve ilgili kişinin savunmasını alır; kararı Denetim Kurulu verir, inceleme için Yönetim Kuruluna gönderir. İlgili kişi karara Genel Kurul'a itiraz edebilir. Süreç ve süreler [[08.2026.1 Şikâyetler ve İtirazlar]] yönetmeliğinde düzenlenir.
-9. Yaptırımlar: uyarı; Speedcubing Türkiye'nin kendi etkinliklerinden (buluşma, eğitim, toplantı gibi) veya görevlerden geçici uzaklaştırma; oy hakkının kaldırılması; üyelikten çıkarma. Bu yaptırımlar WCA yarışmalarına katılımı kapsamaz; WCA yarışmalarıyla ilgili durumlar WCA'ya bildirilir. Yaptırımların uygulanması [[07.2026.1 Yaptırımlar]] yönetmeliğinde düzenlenir.
+8. Disiplin: Denetim Kurulu şikâyeti inceler ve ilgili kişinin savunmasını alır; kararı Denetim Kurulu verir, inceleme için Yönetim Kuruluna gönderir. İlgili kişi karara Genel Kurul'a itiraz edebilir. Süreç ve süreler 08.2026.1 Şikâyetler ve İtirazlar yönetmeliğinde düzenlenir.
+9. Yaptırımlar: uyarı; Speedcubing Türkiye'nin kendi etkinliklerinden (buluşma, eğitim, toplantı gibi) veya görevlerden geçici uzaklaştırma; oy hakkının kaldırılması; üyelikten çıkarma. Bu yaptırımlar WCA yarışmalarına katılımı kapsamaz; WCA yarışmalarıyla ilgili durumlar WCA'ya bildirilir. Yaptırımların uygulanması 07.2026.1 Yaptırımlar yönetmeliğinde düzenlenir.
 10. Kimse kendisiyle ilgili bir disiplin dosyasında karar sürecine katılamaz.
 
 ## Madde 10 – Tüzük Değişikliği
