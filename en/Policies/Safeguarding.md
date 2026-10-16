@@ -1,7 +1,7 @@
 Adopted: 10 October 2026 · Basis: Bylaws Articles 7 and 9
 
 1. **Purpose:** This Policy protects people under 18 and adults at risk who take part in Speedcubing Türkiye events.
-2. **Who is responsible:** The Safeguarding Officer is the Chair of the Audit and Integrity Board; the Audit and Integrity Board appoints the Deputy Safeguarding Officer (Bylaws Articles 7 and 9). Both names are published on the website.
+2. **Who is responsible:** The Safeguarding Officer is the Chair of the Audit Board; the Audit Board appoints the Deputy Safeguarding Officer (Bylaws Articles 7 and 9). Both names are published on the website.
 3. **How to report:** Concerns and complaints are sent to the Safeguarding Officer at safeguarding@speedcubingturkiye.org. Only the Safeguarding Officer and the Deputy read emails sent to this address.
 4. **Response time:** The Safeguarding Officer responds to a report within 24 hours at most.
 5. **At competitions:** Concerns during a competition are reported to that competition's WCA Delegate. The Delegates and the organizing team are introduced at the opening and are easy to recognize throughout the competition (for example by a badge or T-shirt).

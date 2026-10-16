@@ -9,11 +9,11 @@ Version 1.0 · Adopted: 10 October 2026
     - **Member:** anyone who registers under Article 4.
     - **Full Member:** a Member who has gained voting rights under Article 4.
     - **General Assembly:** the meeting of the Full Members.
-    - **Board and Audit and Integrity Board:** the bodies in Articles 6 and 7.
+    - **Board and Audit Board:** the bodies in Articles 6 and 7.
     - **WCA:** the World Cube Association.
     - **Motion:** detailed rules the Board adopts under these Bylaws.
     - **Policy:** day-to-day rules the Board adopts under these Bylaws and the Motions.
-    - **Officer:** a member of the Board or of the Audit and Integrity Board, a team lead, or anyone organizing a competition on behalf of Speedcubing Türkiye.
+    - **Officer:** a member of the Board or of the Audit Board, a team lead, or anyone organizing a competition on behalf of Speedcubing Türkiye.
 5. These Bylaws are written in Turkish and English. If the two texts differ, the Turkish text prevails.
 
 ## Article 2 – Purpose and Activities
@@ -53,14 +53,14 @@ Version 1.0 · Adopted: 10 October 2026
 ## Article 5 – General Assembly
 
 1. The General Assembly is Speedcubing Türkiye's highest decision-making body and consists of all Full Members.
-2. The ordinary General Assembly meets at least once a year. An extraordinary General Assembly meets if the Board, the Audit and Integrity Board or one fifth of the Full Members ask for it.
+2. The ordinary General Assembly meets at least once a year. An extraordinary General Assembly meets if the Board, the Audit Board or one fifth of the Full Members ask for it.
 3. Meetings are announced at least 14 days in advance. They may be held in person, online or both.
 4. The General Assembly is quorate when more than half of the Full Members attend. If not, a second meeting is held at least 7 days later, with no quorum required.
 5. Each Full Member has one vote and casts it themselves; proxy voting is not allowed. Elections are held by secret ballot.
 6. Decisions need more than half of the votes cast. Decisions under Article 11 need two thirds of the votes cast.
 7. The General Assembly:
-    - elects the Board and the Audit and Integrity Board, and may remove their members;
-    - discusses and approves the annual activity report, the financial report and the Audit and Integrity Board's report;
+    - elects the Board and the Audit Board, and may remove their members;
+    - discusses and approves the annual activity report, the financial report and the Audit Board's report;
     - approves the plan and budget for the current year;
     - introduces or removes dues;
     - decides appeals against disciplinary decisions.
@@ -70,7 +70,7 @@ Version 1.0 · Adopted: 10 October 2026
 
 1. The Board has 5 members: the Chair, the Executive Director, the Vice-Chair, the Secretary and the Treasurer. The term of office is 2 years; re-election is allowed.
 2. The General Assembly elects the Board from among the Full Members. The Board shares out all roles at its first meeting.
-3. The Chair and the Executive Director may not be the same person. No one may sit on both the Board and the Audit and Integrity Board.
+3. The Chair and the Executive Director may not be the same person. No one may sit on both the Board and the Audit Board.
 4. The candidate with the next highest votes becomes the alternate. If a seat falls vacant, the alternate joins the Board and the Board reallocates roles.
 5. A seat becomes vacant on resignation, removal by the General Assembly, the end of the person's Full Membership, or unexcused absence from 3 consecutive meetings. Resignations are given to the Board in writing. The General Assembly may remove a member by two thirds of the votes cast. If no alternate is left to fill a vacant seat, an extraordinary General Assembly meets within 30 days and holds an election for the rest of the term.
 6. Roles:
@@ -86,12 +86,12 @@ Version 1.0 · Adopted: 10 October 2026
 11. Motions and Policies are published on the website. A Motion may not conflict with these Bylaws, and a Policy may not conflict with these Bylaws or a Motion; in case of conflict, the Bylaws and then the Motions apply.
 12. On matters these Bylaws do not cover, and on how they are to be interpreted, the Board's decision prevails.
 
-## Article 7 – Audit and Integrity Board
+## Article 7 – Audit Board
 
-1. The Audit and Integrity Board has 3 members. The General Assembly elects them from among the Full Members for 2 years. The candidate with the next highest votes becomes the alternate.
-2. At its first meeting, the Audit and Integrity Board elects a Chair from among its members. The Chair calls and runs its meetings and signs its report to the General Assembly.
+1. The Audit Board has 3 members. The General Assembly elects them from among the Full Members for 2 years. The candidate with the next highest votes becomes the alternate.
+2. At its first meeting, the Audit Board elects a Chair from among its members. The Chair calls and runs its meetings and signs its report to the General Assembly.
 3. Its members may not sit on the Board.
-4. The rules on vacancies, resignation and removal in Article 6 also apply to the Audit and Integrity Board. A vacant seat is filled by its alternate.
+4. The rules on vacancies, resignation and removal in Article 6 also apply to the Audit Board. A vacant seat is filled by its alternate.
 5. Its duties:
     - **Financial audit:** checks the accounts and payment approvals at least once a year and after every competition.
     - **Integrity:** receives and investigates complaints of breaches of these Bylaws, the Motions, the Policies and the rules in Article 9. Keeps the disclosures of interests under the Ethics Policy.
@@ -110,7 +110,7 @@ Version 1.0 · Adopted: 10 October 2026
 3. Because Speedcubing Türkiye has no legal personality, its money is kept in a separate account used only for this purpose. The account is opened in the name of the Treasurer or of a volunteer Full Member chosen by the Board; it may be held at a bank or at a licensed payment or e-money institution. The account holder holds this money in trust for Speedcubing Türkiye.
 4. Every payment needs two approvals: the Treasurer and one Board member. No one may approve a payment they made or requested.
 5. An invoice or receipt is kept for every payment. Officers are volunteers and receive no pay for their roles. A cost incurred for Speedcubing Türkiye is reimbursed against receipts only if the Board approves it.
-6. An income and expense summary is published after each competition, and an annual financial report is published every year together with the Audit and Integrity Board's report.
+6. An income and expense summary is published after each competition, and an annual financial report is published every year together with the Audit Board's report.
 7. Speedcubing Türkiye's equipment and other assets belong to the organization as a whole, not to any individual.
 8. Account statements, a change of account holder, the budget and the financial year are set out in Motion 06.2026.1 Finances; competition fees in the Competition Requirements Policy; recording and lending equipment in the Equipment Policy.
 
@@ -119,11 +119,11 @@ Version 1.0 · Adopted: 10 October 2026
 1. All Members, volunteers and organizers follow the WCA's rules, procedures and policies.
 2. Officers sign the Ethics Policy when they take up their role.
 3. Violence, harassment, insults, discrimination and threats are forbidden at Speedcubing Türkiye events.
-4. The Chair of the Audit and Integrity Board is also the Safeguarding Officer. The Safeguarding Officer receives complaints about child safety and conduct and brings them to the Audit and Integrity Board. If a complaint concerns that Chair, or they cannot be reached, the Deputy Safeguarding Officer steps in. Complaints are sent to safeguarding@speedcubingturkiye.org. How the Safeguarding Officer works is set out in the Safeguarding Policy.
+4. The Chair of the Audit Board is also the Safeguarding Officer. The Safeguarding Officer receives complaints about child safety and conduct and brings them to the Audit Board. If a complaint concerns that Chair, or they cannot be reached, the Deputy Safeguarding Officer steps in. Complaints are sent to safeguarding@speedcubingturkiye.org. How the Safeguarding Officer works is set out in the Safeguarding Policy.
 5. An incident during a competition is first reported to that competition's WCA Delegate. Matters under WCA rules are referred to the WCA.
 6. Parents, or the adult accompanying them, are responsible for supervising participants under 18 throughout an event.
 7. No one may retaliate against a person who makes a complaint or acts as a witness. Retaliation is a separate disciplinary offence.
-8. Discipline: the Audit and Integrity Board investigates the complaint and hears the person concerned; the Audit and Integrity Board makes the decision and sends it to the Board for review. The person may appeal to the General Assembly. The process and time limits are set out in Motion 08.2026.1 Complaints and Appeals.
+8. Discipline: the Audit Board investigates the complaint and hears the person concerned; the Audit Board makes the decision and sends it to the Board for review. The person may appeal to the General Assembly. The process and time limits are set out in Motion 08.2026.1 Complaints and Appeals.
 9. Sanctions: a warning; temporary suspension from Speedcubing Türkiye's own events (such as meetups, training sessions and meetings) or from roles; removal of voting rights; expulsion. These sanctions do not cover taking part in WCA competitions; matters concerning WCA competitions are reported to the WCA. How sanctions are applied is set out in Motion 07.2026.1 Sanctions.
 10. No one takes part in deciding a disciplinary case that concerns them.
 
@@ -149,7 +149,7 @@ Version 1.0 · Adopted: 10 October 2026
 
 1. These Bylaws were adopted by the founding team named in the Annex on 10 October 2026 and took effect on the same day.
 2. The members of the founding team are the first Full Members.
-3. The founding Board and the founding Audit and Integrity Board named in the Annex serve until the first ordinary General Assembly.
+3. The founding Board and the founding Audit Board named in the Annex serve until the first ordinary General Assembly.
 4. The first ordinary General Assembly meets within 12 months of these Bylaws taking effect and elects both Boards.
 5. Applications for Full Membership under Article 4 are open from the date these Bylaws take effect.
 
@@ -165,10 +165,10 @@ The founding Boards serve until the first ordinary General Assembly (Article 12)
 | Aysu Aydoğdu | 2024AYDO01 | Secretary |
 | Buğra Tosun | 2018TOSU01 | Treasurer |
 | Bora Azizoğlu | 2022AZIZ02 | Board alternate |
-| Alper Şakım | 2018SAKI01 | Chair of the Audit and Integrity Board, Safeguarding Officer |
-| Utku Yılmaz | 2018YILM06 | Member of the Audit and Integrity Board |
-| Tuna Özsoy | 2014OZSO02 | Member of the Audit and Integrity Board, Deputy Safeguarding Officer |
-| Muhammed Pusat Özçelik | 2019OZCE01 | Audit and Integrity Board alternate |
+| Alper Şakım | 2018SAKI01 | Chair of the Audit Board, Safeguarding Officer |
+| Utku Yılmaz | 2018YILM06 | Member of the Audit Board |
+| Tuna Özsoy | 2014OZSO02 | Member of the Audit Board, Deputy Safeguarding Officer |
+| Muhammed Pusat Özçelik | 2019OZCE01 | Audit Board alternate |
 
 | Version | Date | Change |
 |---|---|---|
